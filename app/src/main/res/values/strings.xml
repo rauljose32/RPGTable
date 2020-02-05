@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TableRPG</string>
+    <string name="rpg_table">RPG Table</string>
+    <string name="descricaoImgSplash">Imagem Logo</string>
+    <string name="d6">D6</string>
+    <string name="d20">D20</string>
+    <string name="d8">D8</string>
+    <string name="nome_do_personagem">Nome do Personagem</string>
+    <string name="classe">CLASSE</string>
+    <string name="sexo">SEXO</string>
+    <string name="idadepersonagem">Idade do Personagem</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="guerreiro">Guerreiro</string>
+    <string name="mago">Mago</string>
+    <string name="arqueiro">Arqueiro</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+
+</resources>
